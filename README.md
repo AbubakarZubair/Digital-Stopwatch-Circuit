@@ -37,5 +37,5 @@ This pulse triggers the CD4033 counter ICs, incrementing the connected 7-segment
 - `docs/Final-Project-Proposal.docx` – Complete project report and explanation.
 
 ## 📸 Screenshots / Circuit Image (if available)
-![check Circuit Diagram and picture 2](Circuit_Diagram.png)
+![check Circuit Diagram and picture 2](Circuit_Diagram.gif)
 
